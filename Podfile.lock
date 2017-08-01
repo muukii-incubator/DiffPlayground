@@ -1,0 +1,25 @@
+PODS:
+  - Diff (0.5.3)
+  - IGListKit/Diffing (3.0.0)
+  - RxCocoa (3.6.0):
+    - RxSwift (~> 3.6)
+  - RxDataSources (1.0.4):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.6.0)
+
+DEPENDENCIES:
+  - Diff
+  - IGListKit/Diffing
+  - RxDataSources
+
+SPEC CHECKSUMS:
+  Diff: befa1d19c32726b2b36ce915d98793e2fbde8dcc
+  IGListKit: 9eab6856a15fa25ad72018ff9d9eb2178c240fff
+  RxCocoa: cb865569239ebf1b1434056e5c8859d99dff103a
+  RxDataSources: b3389acc5fe2eefb8fcd81a2b76a876ad08bc82a
+  RxSwift: a0925c7fb11fbe60055285f6f2062241aa37a175
+
+PODFILE CHECKSUM: a0796b5356cb53b6dcffa3b9161a16d7e8f6660b
+
+COCOAPODS: 1.2.1
